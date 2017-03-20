@@ -1,4 +1,4 @@
-# Python Presentation
+# The Presentation
 
 The different parts of the presentation are in the following files:
 1. The Basics.ipynb
@@ -7,6 +7,19 @@ The different parts of the presentation are in the following files:
 4. Use Case - Directory Monitor.ipynb
 5. Use Case - Working with AWS.ipynb
 6. Use Case - Machine Learning.ipynb
+
+## Accessing the Presentation Interactively
+
+First you need to do one of the following:
+- Install Anaconda
+- Install the regular Python distribution + pip install jupyter
+
+Then, do the following:
+1. Clone this repo
+2. Navigate to the root of this repo
+3. Run the following command:
+
+    jupyter notebook
 
 # Installing Python
 

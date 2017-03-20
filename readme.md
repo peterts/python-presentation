@@ -19,7 +19,7 @@ Then, do the following:
 2. Navigate to the root of this repo
 3. Run the following command:
 
-    jupyter notebook
+        jupyter notebook
 
 # Installing Python
 

@@ -119,3 +119,4 @@ crashlytics-build.properties
 fabric.properties
 
 /examples/resources/
+/reveal.js/
